@@ -113,6 +113,3 @@ Run the **Jupyter Notebook** `04_Modeling.ipynb` to generate:
 
 Then, **open Power BI Desktop** to load the CSV outputs and create your interactive dashboard.
 
----
-
-If you need a Power BI guide, model architecture diagram, or background image generation prompt for your dashboard, please let me know!
